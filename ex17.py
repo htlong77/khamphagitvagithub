@@ -20,3 +20,6 @@ print("Alright, all done.")
 
 out_file.close()
 in_file.close()
+
+print("Kết thúc chương trình")
+
